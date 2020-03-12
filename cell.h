@@ -11,12 +11,11 @@ class Cell{
     Cell(char state);
     ~Cell();
 
-
     char getState();
     void setState(char state);
 
     char nextGen(int count);
   private:
-    char m_state;
+    char m_state; //'X' for alive '-' for dead
 };
 #endif

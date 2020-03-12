@@ -9,7 +9,7 @@ class Simulation{
   public:
     Simulation();
     Simulation(int rows, int columns, float density);
-    Simulation(string fName);
+    Simulation(ifstream &inFS);
     ~Simulation();
 
     void playGame(int output);

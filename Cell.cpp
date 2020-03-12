@@ -18,9 +18,10 @@ void Cell::setState(char state){
   m_state = state;
 }
 
+//Returns state of cell for next generation based on count
 char Cell::nextGen(int count){
   if(count == 2){
-    return m_state;
+    return m_state; //State stays the same
   }else if(count == 3){
     return 'X';
   } else{

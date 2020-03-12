@@ -9,7 +9,7 @@ class Board{
     Board();
     Board(int rows, int columns);
     Board(int rows, int columns, float density);
-    Board(string fName);
+    Board(ifstream &inFS);
 
     ~Board();
 
@@ -21,7 +21,7 @@ class Board{
 
     bool isEqual(Board* arr);
     void printBoard(int x);
-    void printBoard(int x, string fName);
+    void printBoard(int x, ofstream &outFS);
   private:
     Cell **m_arr;
     int m_rows;
