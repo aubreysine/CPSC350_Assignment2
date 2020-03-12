@@ -131,4 +131,5 @@ void Board::printBoard(int x, ofstream& outFS){
     }
     outFS << endl;
   }
+  outFS << endl;
 }
