@@ -1,0 +1,207 @@
+Generation 0: 
+------
+-X-XX-
+-XX-X-
+X-XX--
+------
+XX-X--
+-X--X-
+
+Generation 1: 
+--XXX-
+-X-XX-
+X---XX
+--XX--
+X--X--
+XXX---
+XXX---
+
+Generation 2: 
+X---XX
+XX----
+XX---X
+XXXX--
+X--X--
+---X-X
+X----X
+
+Generation 3: 
+----X-
+----X-
+-----X
+---XX-
+X--X-X
+-----X
+------
+
+Generation 4: 
+------
+----XX
+---X-X
+X--X--
+X--X-X
+X---XX
+------
+
+Generation 5: 
+------
+----XX
+X--X-X
+X-XX--
+-X-X--
+X---X-
+-----X
+
+Generation 6: 
+----XX
+X---XX
+XXXX--
+X--X-X
+XX-XXX
+X---XX
+-----X
+
+Generation 7: 
+------
+--X---
+--XX--
+------
+-XXX--
+-X-X--
+------
+
+Generation 8: 
+------
+--XX--
+--XX--
+-X----
+-X-X--
+-X-X--
+------
+
+Generation 9: 
+------
+--XX--
+-X-X--
+-X-X--
+XX----
+------
+------
+
+Generation 10: 
+------
+--XX--
+-X-XX-
+-X----
+XXX---
+------
+------
+
+Generation 11: 
+------
+--XXX-
+-X-XX-
+---X--
+XXX---
+-X----
+------
+
+Generation 12: 
+---X--
+--X-X-
+------
+X--XX-
+XXX---
+XXX---
+------
+
+Generation 13: 
+---X--
+---X--
+----XX
+X-XX-X
+------
+X-X---
+-XX---
+
+Generation 14: 
+---X--
+---X--
+X-X--X
+X--X-X
+X-XX-X
+--X---
+-XXX--
+
+Generation 15: 
+---XX-
+--XXX-
+XXXX-X
+---X--
+X-XX-X
+X---X-
+-X-X--
+
+Generation 16: 
+------
+X-----
+XX---X
+------
+XXXX-X
+X---X-
+--XX-X
+
+Generation 17: 
+------
+XX---X
+XX---X
+----X-
+XXXXXX
+------
+---XXX
+
+Generation 18: 
+------
+-X---X
+-X--X-
+------
+XXXXXX
+-X----
+----X-
+
+Generation 19: 
+------
+X-----
+X-----
+------
+XXXXXX
+-X----
+------
+
+Generation 20: 
+------
+------
+------
+--XXX-
+XXXXXX
+-X-XXX
+------
+
+Generation 21: 
+------
+------
+---X--
+X-----
+------
+-X----
+----X-
+
+Generation 22: 
+------
+------
+------
+------
+------
+------
+------
+

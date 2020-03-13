@@ -74,7 +74,7 @@ void Simulation::playGame(string fName, int cycles){
 
   //Opening output file
   ofstream outFS;
-  outFS.open(fName, ofstream::out);
+  outFS.open(fName);
 
   /**Run simulation while the generation repeat count is less than 2 or generation
   count is more than user specified generation limit*/
@@ -100,6 +100,10 @@ void Simulation::playGame(string fName, int cycles){
     genCount++;
   }while(repeatCount < 2 && genCount <= cycles);
   outFS.close();
+
+  cout << "Simulation over. Press \"Enter\" to exit the program. " << endl;
+  cin.get();
+  cin.get();
 }
 
 void Simulation::calcGen(){}
